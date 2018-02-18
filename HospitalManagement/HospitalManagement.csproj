@@ -16,7 +16,6 @@
 
   <ItemGroup>
     <Folder Include="Modules\FinancialManagement\Controllers\" />
-    <Folder Include="Modules\FinancialManagement\Models\" />
     <Folder Include="Modules\PatientManagement\Views\" />
   </ItemGroup>
 
