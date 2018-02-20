@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace HospitalManagement.Modules.Staffmanagement.Models
 {
-    public class Users1
+    public class Users
     {
        
         
@@ -13,7 +13,7 @@ namespace HospitalManagement.Modules.Staffmanagement.Models
             public string UserName { get; set; }
             public string Password { get; set; }
             public string Position { get; set; }
-        public string abc { get; set; }
+        public string ruchika { get; set; }
 
 
 
