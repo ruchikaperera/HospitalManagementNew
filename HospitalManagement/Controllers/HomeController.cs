@@ -20,6 +20,7 @@ namespace HospitalManagement.Controllers
             ViewData["Message"] = "Your application description page.";
 
             return View();
+            //ghgh
         }
 
         public IActionResult Contact()
